@@ -6,6 +6,7 @@ Restful-based interlocking platform.
 
 ### Basic Resources
 
+- Security
 - Redis
 - Elasticsearch
 - Kafka
